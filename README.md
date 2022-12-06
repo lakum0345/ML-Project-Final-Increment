@@ -3,6 +3,7 @@ Data Set link: https://drive.google.com/drive/u/0/folders/168eYOhXZeLtXJCM9ZIKTX
 
 Name: Rahul Lakum,
 Student Id: 700726522,
+rxl65220,
 rxl65220@ucmo.edu,
 University of Central Missouri,
 CS 5710-Machine Learning,
